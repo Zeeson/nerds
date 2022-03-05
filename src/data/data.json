@@ -1,7 +1,9 @@
 {
   "Header": {
-    "title": "We are NERDS Technologies",
-    "paragraph": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe "
+    "name": "Welcome to",
+    "title": "Never Ending Research & Development Solutions",
+    "paragraph": "We are a group of experts and consultants in the field of Research and Development, Blockchain, Web Development and Cloud Infrastructure ",
+    "paragraphs": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",

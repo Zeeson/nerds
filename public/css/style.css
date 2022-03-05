@@ -18,7 +18,7 @@ h2 {
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
-  color: #333;
+  color: white;
 }
 h3 {
   font-size: 20px;
@@ -37,6 +37,7 @@ h5 {
 }
 p {
   font-size: 15px;
+  font-weight: 900;
 }
 p.intro {
   margin: 12px 0 0;
@@ -208,7 +209,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url("https://res.cloudinary.com/zeeson-info-tech-and-innovations/image/upload/v1634811801/nerdsHero_lvsnys.jpg") center center no-repeat;
+  background: url("https://res.cloudinary.com/zeeson-info-tech-and-innovations/image/upload/v1643475545/nerds_hero_rpuydm.png") center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
