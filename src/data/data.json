@@ -2,8 +2,8 @@
   "Header": {
     "name": "Welcome to",
     "title": "Never Ending Research & Development Solutions",
-    "paragraph": "We are a group of experts and consultants in the field of Research and Development, Blockchain, Web Development and Cloud Infrastructure ",
-    "paragraphs": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe"
+    "paragraph": "We are a group of experts and consultants in the field of Research and Development, Blockchain, Web Development and Cloud Infrastructure.",
+    "paragraphs": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -69,33 +69,33 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-btc",
+      "name": "BlockChain/Financial Consulting",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-globe",
+      "name": "Web and App Development",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-dollar",
+      "name": "Marketing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-cloud",
+      "name": "Cloud management",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-database",
+      "name": "Engineering solutions",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-group",
+      "name": "Remote Work Solution",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
@@ -134,23 +134,43 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Herbert (Nick) Kresh",
+      "job": "Chief Executive Officer"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Ben",
+      "job": "Senior Engineer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Mehul Anchan",
+      "job": "Software Engineer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Viren",
+      "job": "Electrical Engineer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ibrahim Saliman",
+      "job": "Software Engineer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Mehul Anchan",
+      "job": "Software Engineer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Viren",
+      "job": "Electrical Engineer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Viren",
+      "job": "Electrical Engineer"
     }
   ],
   "Contact": {

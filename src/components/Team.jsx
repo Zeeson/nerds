@@ -3,10 +3,25 @@ export const Team = (props) => {
     <div id='team' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
-          <h2>Meet the Team</h2>
+          <h1>Meet the Team</h1>
+          
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            NERDS Technologies is a new generational consulting firm with over 30
+            years of combined experience. We partner with leaders in business and 
+            society to tackle innovative challenges and to help ensure our clients 
+            have the most up-to-date technological advantages in blockchain technology,
+            digital security, web development, and engineering advice for your 
+            project needs.
+          </p>
+          <p></p>
+          <p>
+           Our experts bring in-depth knowledge and applicable expertise in a wide 
+           variety of technology development that questions the status quo and helps
+           bring new ideas, new perspectives, and new solutions to help make the 
+           world a better place. Maximizing our clients products and services and 
+           ensuring our clients are given the best solution to their needs is our 
+           top priority.
+
           </p>
         </div>
         <div id='row'>

@@ -22,7 +22,7 @@ export const Header = (props) => {
                 </h2>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='#features'
+                  href='#about'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Learn More
