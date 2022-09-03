@@ -33,7 +33,7 @@ export const Team = (props) => {
                     <div className='caption'>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
-                      <a href={d.link}>{d.linkedin}</a>
+                      <a target="_blank" href={d.link}>{d.linkedin}</a>
                     </div>
                   </div>
                 </div>
