@@ -17,6 +17,10 @@ export const Header = (props) => {
                   <span></span>
                 </p>
                 <h2>
+                  {props.data ? props.data.acronym : 'Loading'}
+                  <span></span>
+                </h2>
+                <h2>
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
                 </h2>

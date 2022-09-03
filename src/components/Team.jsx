@@ -14,26 +14,26 @@ export const Team = (props) => {
             project needs.
           </p>
           <p></p>
-          <p>
+          {/* <p>
            Our experts bring in-depth knowledge and applicable expertise in a wide 
            variety of technology development that questions the status quo and helps
            bring new ideas, new perspectives, and new solutions to help make the 
            world a better place. Maximizing our clients products and services and 
            ensuring our clients are given the best solution to their needs is our 
            top priority.
-
-          </p>
+          </p> */}
         </div>
-        <div id='row'>
+        <div id='row' className="align-items-center justify-content-center">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
+                <div key={`${d.name}-${i}`} className='col-md-4 col-sm-6 team'>
                   <div className='thumbnail'>
                     {' '}
                     <img src={d.img} alt='...' className='team-img' />
                     <div className='caption'>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
+                      <a href={d.link}>{d.linkedin}</a>
                     </div>
                   </div>
                 </div>

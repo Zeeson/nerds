@@ -1,8 +1,9 @@
 {
   "Header": {
     "name": "Welcome to",
+    "acronym": "N.E.R.D.S.",
     "title": "Never Ending Research & Development Solutions",
-    "paragraph": "We are a group of experts and consultants in the field of Research and Development, Blockchain, Web Development and Cloud Infrastructure.",
+    "paragraph": "We are a group of dedicated experts and consultants in the fields of research and development, blockchain consulting, web application development and marketing that strive to deliver superior performance, quality and informative results for our clients.",
     "paragraphs": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe."
   },
   "About": {
@@ -135,48 +136,31 @@
     {
       "img": "img/team/01.jpg",
       "name": "Herbert (Nick) Kresh",
-      "job": "Chief Executive Officer"
+      "job": "Chief Executive Officer",
+      "link": "https://www.linkedin.com/in/herbertkresh/",
+      "linkedin": "Linkedin Profile"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Ben",
-      "job": "Senior Engineer"
+      "job": "Senior Engineer",
+      "link": "https://www.linkedin.com/in/benjamin-nguyen-9228251b8/",
+      "linkedin": "Linkedin Profile"
     },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Mehul Anchan",
-      "job": "Software Engineer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Viren",
-      "job": "Electrical Engineer"
-    },
+   
     {
       "img": "img/team/04.jpg",
       "name": "Ibrahim Saliman",
-      "job": "Software Engineer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Mehul Anchan",
-      "job": "Software Engineer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Viren",
-      "job": "Electrical Engineer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Viren",
-      "job": "Electrical Engineer"
+      "job": "Software Engineer",
+      "link": "https://www.linkedin.com/in/ibrahim-saliman-zainab/",
+      "linkedin": "Linkedin Profile"
+      
     }
   ],
   "Contact": {
     "address": "8606 Woodbrook Dr, Dallas, Texas, 75243",
     "phone": "+1 123 456 1234",
-    "email": "nickkresh@sbcglobal.net",
+    "email": "nerdstechnologies@gmail.com",
     "facebook": "https://facebook.com/nerds",
     "twitter": "https://twitter.com/nerds",
     "youtube": "https://youtube.com/nerds"
