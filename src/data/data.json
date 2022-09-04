@@ -1,7 +1,7 @@
 {
   "Header": {
     "name": "Welcome to",
-    "acronym": "N.E.R.D.S.",
+    "acronym": "N.E.R.D.S",
     "title": "Never Ending Research & Development Solutions",
     "paragraph": "We are a group of dedicated experts and consultants in the fields of research and development, blockchain consulting, web application development and marketing that strive to deliver superior performance, quality and informative results for our clients.",
     "paragraphs": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe."
@@ -134,22 +134,22 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/krish.jpeg",
       "name": "Herbert (Nick) Kresh",
       "job": "Chief Executive Officer",
       "link": "https://www.linkedin.com/in/herbertkresh/",
       "linkedin": "Linkedin Profile"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Ben",
+      "img": "img/team/ben.jpeg",
+      "name": "Benjamin Nguyen",
       "job": "Senior Engineer",
       "link": "https://www.linkedin.com/in/benjamin-nguyen-9228251b8/",
       "linkedin": "Linkedin Profile"
     },
    
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/zeeson.png",
       "name": "Ibrahim Saliman",
       "job": "Software Engineer",
       "link": "https://www.linkedin.com/in/ibrahim-saliman-zainab/",
