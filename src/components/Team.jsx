@@ -24,9 +24,10 @@ export const Team = (props) => {
           </p> */}
         </div>
         <div id='row' className="align-items-center justify-content-center">
+        <div className='col-md-2'></div>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-4 col-sm-6 team'>
+                <div key={`${d.name}-${i}`} className='col-md-6 col-sm-6 team'>
                   <div className='thumbnail'>
                     {' '}
                     <img src={d.img} alt='...' className='team-img' />
@@ -39,6 +40,7 @@ export const Team = (props) => {
                 </div>
               ))
             : 'loading'}
+            <div className='col-md-4'></div>
         </div>
       </div>
     </div>

@@ -36,6 +36,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
+          <div className='col-md-2'></div>
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
@@ -95,7 +96,7 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
-          <div className='col-md-3 col-md-offset-1 contact-info'>
+          {/* <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Contact Info</h3>
               <p>
@@ -121,7 +122,7 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : 'loading'}
               </p>
             </div>
-          </div>
+          </div> */}
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
@@ -145,6 +146,7 @@ export const Contact = (props) => {
               </div>
             </div>
           </div>
+          <div className='col-md-2'></div>
         </div>
       </div>
     </div>
