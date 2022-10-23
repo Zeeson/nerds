@@ -7,18 +7,17 @@
     "paragraphs": "NERDS is a next generation Research & Development firm dedicated to building sustainable energy products that provide impact to communities across the globe."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "NERDS is a next generation Research & Development firm dedicated to building sustainable hardware and software products that provide impact to businesses and communities across the globe. Our technology consultants has several years of industry experience in technology needs assessment, business & software development and Crypto.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experience experts",
+      "Needs assessment",
+      "Software that scale",
+      "Business Intelligence"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Operation efficiency",
+      "Refined processes",
+      "Measurable growth"
     ]
   },
   "Gallery": [
@@ -72,32 +71,32 @@
     {
       "icon": "fa fa-btc",
       "name": "BlockChain/Financial Consulting",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our ever-ready experts would help you explore the Cryptocurrency world and financing."
     },
     {
       "icon": "fa fa-globe",
       "name": "Web and App Development",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Every businesses now require global visibility and yours is not an exception."
     },
     {
       "icon": "fa fa-dollar",
       "name": "Marketing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our marketing strategy and expertise would make your business stay above its peers."
     },
     {
       "icon": "fa fa-cloud",
       "name": "Cloud management",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Cloud is now a new home for your business data. Our experts would help you migrate seamlessly and help configure any usecase."
     },
     {
       "icon": "fa fa-database",
       "name": "Engineering solutions",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Engineering is what we do. From engineering project management to project implementation, our consultant is here to help you."
     },
     {
       "icon": "fa fa-group",
       "name": "Remote Work Solution",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our remote work services would provide a diversed and essential skill sets for your business objectives."
     }
   ],
   "Testimonials": [
@@ -139,16 +138,8 @@
       "job": "Chief Executive Officer",
       "link": "https://www.linkedin.com/in/herbertkresh/",
       "linkedin": "Linkedin Profile"
-    },
-   
-    {
-      "img": "img/team/zeeson.png",
-      "name": "Ibrahim Saliman",
-      "job": "Software Engineer",
-      "link": "https://www.linkedin.com/in/ibrahim-saliman-zainab/",
-      "linkedin": "Linkedin Profile"
-      
-    }
+    }   
+    
   ],
   "Contact": {
     "address": "8606 Woodbrook Dr, Dallas, Texas, 75243",
